@@ -1,5 +1,34 @@
 /* My CSS */
 
 body {
-    background-color: pink;
+    background-color: #E8FCC2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
 }
+
+header, footer {
+    background-color: #B1CC74;
+}
+
+.site-title {
+    color: white;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+
+.green li:nth-child(1) {
+    background: #B1CC74;
+  }
+
+  a:link { 
+    text-decoration: none; 
+    border: 2px solid;
+    background-color: #FCC8C2;
+  }
+  
+  a:hover {
+    background-color: white;
+  }
+   
